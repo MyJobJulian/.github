@@ -1,27 +1,29 @@
-<h1 align="center">🏢 [Nombre de la Organización]</h1>
+<h1 align="center">🤖 Automatización de GitHub Actions para Actualizar Perfil</h1>
 
-<h3 align="center">[Una frase corta que describa lo que hacen]</h3>
+<h3 align="center">Perfiles de GitHub que se actualizan solos ⚙️</h3>
 
 ---
 
 ### 👋 Sobre nosotros
 
-Somos [breve descripción de la organización: qué hacen, cuál es su objetivo o misión].
+Esta organización se dedica a **automatizar la actualización de perfiles de GitHub** usando **GitHub Actions**. El objetivo es que la información de un perfil (estadísticas, actividad, contenido dinámico) se mantenga al día de forma automática, sin tener que editarla a mano.
 
-### 🚀 Lo que hacemos
+### 🚀 Qué hacemos
 
-- 🔹 [Actividad o servicio 1]
-- 🔹 [Actividad o servicio 2]
-- 🔹 [Actividad o servicio 3]
+- 🔄 Flujos de **GitHub Actions** que actualizan el `README` del perfil automáticamente
+- 📊 Generación y refresco de estadísticas sin depender de servidores externos saturados
+- ⏰ Tareas programadas (schedule) que corren solas cada cierto tiempo
+- 🧩 Plantillas reutilizables para que cualquiera automatice su perfil
 
 ### 🛠️ Tecnologías
 
-Aquí encontrarás proyectos construidos con [tecnologías que usan, ej: JavaScript, Python, Laravel].
+- **GitHub Actions** (workflows y automatización)
+- **YAML** para la configuración de los flujos
+- **Markdown** para el contenido de los perfiles
 
 ### 📫 Contacto
 
-- 📧 Correo: [correo de contacto]
-- 🌐 Web: [sitio web si tienen]
+- 📧 Correo: juliangaviria29@gmail.com
 
 ---
 
